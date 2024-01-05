@@ -1,7 +1,7 @@
 #!/bin/python3
 
 
-import pwn,subprocess,sys,struct
+import pwn,subprocess,struct
 
 
 host = '127.0.0.1'
